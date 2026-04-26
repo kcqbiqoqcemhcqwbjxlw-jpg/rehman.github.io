@@ -64,6 +64,7 @@ My goal is to help businesses make better decisions through data driven strategi
 ▸ Identified $92K in losses across product categories, leading to pricing and inventory optimization decisions.  
 ▸ Delivered insights to improve profitability and reduce operational inefficiencies.
 🔗 [View Project] https://github.com/kcqbiqoqcemhcqwbjxlw-jpg/rehman.github.io/blob/main/ecomerce.pbix
+🔗 [View Project Screenshot]
 
 ---
 
@@ -73,6 +74,8 @@ My goal is to help businesses make better decisions through data driven strategi
 ▸ Identified demand gaps and stock inefficiencies across product categories.  
 ▸ Supported restocking strategy and improved supply planning decisions.
 🔗 [View Project] https://github.com/kcqbiqoqcemhcqwbjxlw-jpg/rehman.github.io/blob/main/panda_delivery_app.pbix
+🔗 [View Project Screenshot]
+
 
 ---
 
@@ -82,6 +85,8 @@ My goal is to help businesses make better decisions through data driven strategi
 ▸ Built customer segmentation model for targeted dealership marketing.  
 ▸ Improved understanding of high-value customer profiles for business growth.
 🔗 [View Project] https://github.com/kcqbiqoqcemhcqwbjxlw-jpg/rehman.github.io/blob/main/abdur%20car%20showroom.pbix
+🔗 [View Project Screenshot]
+
 
 ---
 
@@ -91,6 +96,8 @@ My goal is to help businesses make better decisions through data driven strategi
 ▸ Identified vendor concentration risks and dependency issues.  
 ▸ Tracked quarterly KPIs to support strategic decision-making.
 🔗 [View Project] https://github.com/kcqbiqoqcemhcqwbjxlw-jpg/rehman.github.io/blob/main/Client%20Project.pdf
+🔗 [View Project Screenshot] https://github.com/kcqbiqoqcemhcqwbjxlw-jpg/rehman.github.io/blob/main/Screenshot%202026-04-27%20000941.png
+
 
 ---
 
@@ -100,6 +107,8 @@ My goal is to help businesses make better decisions through data driven strategi
 ▸ Extracted insights on customer behavior, revenue trends, and top products.  
 ▸ Built analytical views to support reporting and decision-making.
 🔗 [View Project] https://github.com/kcqbiqoqcemhcqwbjxlw-jpg/rehman.github.io/blob/main/SQL%20Project.pdf
+🔗 [View Project Screenshot]
+
 
 ---
 
@@ -109,6 +118,8 @@ My goal is to help businesses make better decisions through data driven strategi
 ▸ Tracked sales performance, profit trends, and category-level KPIs.  
 ▸ Automated reporting structure for faster business analysis.
 🔗 [View Project] https://github.com/kcqbiqoqcemhcqwbjxlw-jpg/rehman.github.io/blob/main/excel%20dashboard.xlsx
+🔗 [View Project Screenshot]
+
 
 ---
 
