@@ -63,6 +63,7 @@ My goal is to help businesses make better decisions through data driven strategi
 ▸ Analyzed 5,901 orders covering profit, cost, returns, and customer segments (2019–2020).  
 ▸ Identified $92K in losses across product categories, leading to pricing and inventory optimization decisions.  
 ▸ Delivered insights to improve profitability and reduce operational inefficiencies.
+🔗 [View Project] 
 
 ---
 
@@ -71,6 +72,7 @@ My goal is to help businesses make better decisions through data driven strategi
 ▸ Processed 8,500+ transactions across Fruits, Dairy, and Snacks categories.  
 ▸ Identified demand gaps and stock inefficiencies across product categories.  
 ▸ Supported restocking strategy and improved supply planning decisions.
+🔗 [View Project]
 
 ---
 
@@ -79,6 +81,7 @@ My goal is to help businesses make better decisions through data driven strategi
 ▸ Analyzed 24,000+ customer records based on demographics, income, and preferences.  
 ▸ Built customer segmentation model for targeted dealership marketing.  
 ▸ Improved understanding of high-value customer profiles for business growth.
+🔗 [View Project]
 
 ---
 
@@ -96,6 +99,7 @@ My goal is to help businesses make better decisions through data driven strategi
 ▸ Wrote complex queries using joins, subqueries, and aggregations.  
 ▸ Extracted insights on customer behavior, revenue trends, and top products.  
 ▸ Built analytical views to support reporting and decision-making.
+🔗 [View Project]
 
 ---
 
@@ -104,6 +108,7 @@ My goal is to help businesses make better decisions through data driven strategi
 ▸ Built an interactive dashboard using Pivot Tables and charts.  
 ▸ Tracked sales performance, profit trends, and category-level KPIs.  
 ▸ Automated reporting structure for faster business analysis.
+🔗 [View Project]
 
 ---
 
