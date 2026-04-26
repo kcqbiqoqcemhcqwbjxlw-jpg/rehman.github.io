@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rehman
+# 👋 Hi, I'm Abdur Rehman
 
 ## 💼 Data Analyst Portfolio
 
@@ -8,9 +8,7 @@ I specialize in transforming raw data into actionable business insights using da
 
 - ## 👨‍💻 About Me
 
-I am a Data Analyst passionate about turning raw data into meaningful business insights. I enjoy working with data to solve real world business problems using Power BI, SQL, Excel, and Python.
-
-My goal is to help businesses make better decisions through data driven strategies. 
+I am a Data Analyst passionate about turning raw data into meaningful business insights. I enjoy working with data to solve real world business problems using Power BI, SQL, Excel, and Python. My goal is to help businesses make better decisions through data driven strategies. 
 ---
 
 ## 🧠 Skills
