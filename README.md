@@ -64,7 +64,7 @@ My goal is to help businesses make better decisions through data driven strategi
 ▸ Identified $92K in losses across product categories, leading to pricing and inventory optimization decisions.  
 ▸ Delivered insights to improve profitability and reduce operational inefficiencies.
 🔗 [View Project] https://github.com/kcqbiqoqcemhcqwbjxlw-jpg/rehman.github.io/blob/main/ecomerce.pbix
-🔗 [View Project Screenshot]
+🔗 [View Project Screenshot] https://github.com/kcqbiqoqcemhcqwbjxlw-jpg/rehman.github.io/blob/main/Screenshot%202026-04-27%20001100.png
 
 ---
 
@@ -74,7 +74,7 @@ My goal is to help businesses make better decisions through data driven strategi
 ▸ Identified demand gaps and stock inefficiencies across product categories.  
 ▸ Supported restocking strategy and improved supply planning decisions.
 🔗 [View Project] https://github.com/kcqbiqoqcemhcqwbjxlw-jpg/rehman.github.io/blob/main/panda_delivery_app.pbix
-🔗 [View Project Screenshot]
+🔗 [View Project Screenshot] https://github.com/kcqbiqoqcemhcqwbjxlw-jpg/rehman.github.io/blob/main/Screenshot%202026-04-27%20001129.png
 
 
 ---
@@ -85,7 +85,7 @@ My goal is to help businesses make better decisions through data driven strategi
 ▸ Built customer segmentation model for targeted dealership marketing.  
 ▸ Improved understanding of high-value customer profiles for business growth.
 🔗 [View Project] https://github.com/kcqbiqoqcemhcqwbjxlw-jpg/rehman.github.io/blob/main/abdur%20car%20showroom.pbix
-🔗 [View Project Screenshot]
+🔗 [View Project Screenshot] https://github.com/kcqbiqoqcemhcqwbjxlw-jpg/rehman.github.io/blob/main/Screenshot%202026-04-27%20001233.png
 
 
 ---
@@ -118,7 +118,7 @@ My goal is to help businesses make better decisions through data driven strategi
 ▸ Tracked sales performance, profit trends, and category-level KPIs.  
 ▸ Automated reporting structure for faster business analysis.
 🔗 [View Project] https://github.com/kcqbiqoqcemhcqwbjxlw-jpg/rehman.github.io/blob/main/excel%20dashboard.xlsx
-🔗 [View Project Screenshot]
+🔗 [View Project Screenshot] https://github.com/kcqbiqoqcemhcqwbjxlw-jpg/rehman.github.io/blob/main/Screenshot%202026-04-27%20001414.png
 
 
 ---
