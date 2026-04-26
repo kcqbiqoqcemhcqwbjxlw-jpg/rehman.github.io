@@ -87,6 +87,7 @@ My goal is to help businesses make better decisions through data driven strategi
 ▸ Analyzed $452M in sales vs $321.9M in purchases to evaluate business performance.  
 ▸ Identified vendor concentration risks and dependency issues.  
 ▸ Tracked quarterly KPIs to support strategic decision-making.
+🔗 [View Project] https://github.com/kcqbiqoqcemhcqwbjxlw-jpg/rehman.github.io/blob/main/Client%20Project.pdf
 
 ---
 
